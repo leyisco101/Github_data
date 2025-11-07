@@ -1,0 +1,26 @@
+CustomerID,FullName,Gender,DOB,City,Country,Email,Phone,JoinDate
+CUST050,David Okoro,Male,26/05/1998,lagoss,Nigeria,michael.adeyemi@gmail.com,2.34801E+12,20/03/2021
+CUST051,Chioma Eze,Female,10/02/1982,Port Harcourt,Nigeria,chiomaeze@gmail.com,8125623566,28/03/2022
+CUST052,Joy Uche,Female,13/07/1979,ibadan,Nigeria,joyuche@Gmail.com,2.34807E+12,21/02/2017
+CUST053,David Okoro,FEMALE,01/09/1995,Ibadan,Nigeria,johndoe@gmail.com,8123862834,24/09/2022
+CUST054,John Doe,MALE,02/09/1984,Port Harcourt,Nigeria,davidokoro@yahoo,8122811046,25/08/2020
+CUST055,David Okoro,Female,02/03/2001,Benin City,Nigeria,davidokoro@yahoo,,19/12/2021
+CUST056,Michael Adeyemi,MALE,12/08/1980,lagoss,Nigeria,peter.johnsongmail.com,2.34804E+12,11/09/2018
+CUST057,John Doe,FEMALE,25/07/2003,Port Harcourt,Nigeria,chiomaeze@gmail.com,2.3481E+12,27/11/2018
+CUST058,John Doe,MALE,01/01/1995,Benin City,Nigeria,sarahmusa@gmail.com,2.34808E+12,06/06/2018
+CUST059,Mary Ann,FEMALE,,lagoss,Nigeria,maryann@gmail..com,2.34804E+12,05/11/2022
+CUST060,Mary Ann,MALE,,Enugu,Nigeria,davidokoro@yahoo,8125650178,02/12/2022
+CUST061,Mary-Ann Bello,Male,03/05/1975,Ibadan,Nigeria,michael.adeyemi@gmail.com,8127939451,29/11/2018
+CUST062,David Okoro,FEMALE,02/06/2002,Port Harcourt,Nigeria,maryann@gmail..com,,08/09/2022
+CUST063,Emeka Obi,Male,12/07/1978,Ibadan,Nigeria,maryann@gmail..com,,17/11/2020
+CUST064,Mary-Ann Bello,Female,29/10/2001,Kano,Nigeria,sarahmusa@gmail.com,,04/02/2017
+CUST065,David Okoro,Male,20/06/1996,Benin City,Nigeria,michael.adeyemi@gmail.com,,13/12/2018
+CUST066,John Doe,FEMALE,11/06/1988,Ibadan,Nigeria,michael.adeyemi@gmail.com,8129879062,06/03/2019
+CUST067,Peter Johnson,Female,20/09/1984,ibadan,Nigeria,davidokoro@yahoo,,11/03/2022
+CUST068,Mary Ann,Female,06/05/1992,Abjua,Nigeria,peter.johnsongmail.com,2.34805E+12,08/08/2022
+CUST069,Joy Uche,Male,09/09/1977,ENUGU,Nigeria,peter.johnsongmail.com,8124930194,01/01/2022
+CUST070,Emeka Obi,Male,19/01/1999,Abjua,Nigeria,davidokoro@yahoo,,18/07/2017
+CUST071,Joy Uche,MALE,22/02/1988,lagoss,Nigeria,chiomaeze@gmail.com,8124435012,25/05/2019
+CUST072,David Okoro,FEMALE,27/06/1988,Port Harcourt,Nigeria,chiomaeze@gmail.com,2.3481E+12,01/03/2022
+CUST073,Emeka Obi,Female,16/12/1997,Abuja,Nigeria,chiomaeze@gmail.com,8128800524,26/10/2022
+CUST074,Joy Uche,Male,,Benin City,Nigeria,maryann@gmail..com,,14/01/2017

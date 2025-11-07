@@ -1,0 +1,3 @@
+ProductID,ProductName,Category,Premium,CoverageType,DurationMonths
+PROD04,Life Cover,Life,"₦150,000",Full,36
+PROD05,Travel Guard,Travel,"₦30,000",Partial,6
